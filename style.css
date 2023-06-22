@@ -41,8 +41,9 @@ section{
     border-style: solid;
     border-color: black;
     border-width: 5px;
-    padding: 1%;
-    margin: 2%;
+    padding: 2%;
+    margin: 10px;
+
 
 }
 h1{
@@ -70,25 +71,32 @@ p{
     text-align: center;
     margin-top: 10px;
 }
-footer{
-    color: aliceblue;
-    text-align: center;
-    padding: 40px;
-}
+
 #menu a{
     text-decoration-line: none;
     color: aliceblue;
 }
-#galeria ul{
+#galeria {
+    
+    padding: 15%;
  
 }
 
 #galeria li{
     display: inline;
     text-align: center;
-    
+    padding: 1%;
+
     
     margin: 10px;
+}
+article {
+    padding: 10% 5% 20%;
     
+}
 
+footer{
+    color: aliceblue;
+    text-align: center;
+    padding: 40px;
 }
