@@ -1,0 +1,94 @@
+#menu{
+    background-color: black;
+    color: aliceblue;
+    font-size: 20px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+}
+
+#menu ul{
+    list-style: none;
+    text-align: center;
+    
+}
+#menu li{
+    display: inline;
+    margin: 1%;
+    text-transform: uppercase;
+}
+body{
+    background-image: url(bgTesouras.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+section{
+    background-color: darkgrey;
+    margin-top: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
+    
+}
+#servicos{
+    text-align: center;
+    padding: 15%;
+
+}
+#servicos li{
+    display: inline-block;
+    color: rgb(0, 0, 0);
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    padding: 1%;
+    margin: 2%;
+
+}
+h1{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    padding: 1%;
+}
+h2{
+    font-size: 40px;
+    font-weight: bold;
+    
+}
+.preco{
+    font-size: 25px;
+}
+h3{
+    font-size: 30px;
+    font-weight: bold;
+}
+p{
+    font-size: 25px;
+}
+#principaltext{
+    text-align: center;
+    margin-top: 10px;
+}
+footer{
+    color: aliceblue;
+    text-align: center;
+    padding: 40px;
+}
+#menu a{
+    text-decoration-line: none;
+    color: aliceblue;
+}
+#galeria ul{
+ 
+}
+
+#galeria li{
+    display: inline;
+    text-align: center;
+    
+    
+    margin: 10px;
+    
+
+}
