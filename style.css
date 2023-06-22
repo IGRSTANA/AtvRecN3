@@ -32,7 +32,7 @@ section{
 }
 #servicos{
     text-align: center;
-    padding: 15%;
+    padding: 10%;
 
 }
 #servicos li{
@@ -41,8 +41,8 @@ section{
     border-style: solid;
     border-color: black;
     border-width: 5px;
-    padding: 2%;
-    margin: 10px;
+    padding: 10px;
+    margin: 5px;
 
 
 }
@@ -78,14 +78,16 @@ p{
 }
 #galeria {
     
-    padding: 15%;
- 
+    padding: 20%;
+   
+    
 }
 
 #galeria li{
     display: inline;
     text-align: center;
-    padding: 1%;
+    padding: 5%;
+    
 
     
     margin: 10px;
